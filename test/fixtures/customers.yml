@@ -1,0 +1,27 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  customer_id: 1
+  name: MyString
+  surname: MyString
+  cell_no: MyString
+  address: MyString
+  dob: MyString
+  alternate_no: MyString
+  username: MyString
+  password: MyString
+  e-mail: MyString
+  rental_id: 1
+
+two:
+  customer_id: 1
+  name: MyString
+  surname: MyString
+  cell_no: MyString
+  address: MyString
+  dob: MyString
+  alternate_no: MyString
+  username: MyString
+  password: MyString
+  e-mail: MyString
+  rental_id: 1

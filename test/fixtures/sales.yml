@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  sales_id: MyString
+  customer_id: MyText
+  date_of_sales: 2011-03-09
+  movie_id: MyText
+
+two:
+  sales_id: MyString
+  customer_id: MyText
+  date_of_sales: 2011-03-09
+  movie_id: MyText
